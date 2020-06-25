@@ -27,3 +27,8 @@ h3 { font-size: 1.7em; font-weight: normal; margin: 0 0 20px; }
 	.col.last { margin-right: 0; }
 		
 #footer { clear: both; border-top: 1px solid #ddd; padding: 20px 0; font-size: .9em; color: #999; }
+
+.link li {
+	display: none;
+	opacity: 0;
+}
